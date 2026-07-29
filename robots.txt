@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-gl34u1.triz.help/sitemap.xml
